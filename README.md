@@ -1,1 +1,1 @@
-# Rock-Papper-Scissors-Challange
+# Rock-Paper-Scissors-Challange
